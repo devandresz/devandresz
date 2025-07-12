@@ -51,7 +51,7 @@
        alt="icono" 
        style="display: block; margin: 0 auto;">
   <div style="font-size: 32px; margin: -4px 0;">↓</div>
-  <h3 style="margin: 0;">anherrgt15@gmail.com</h3>
+  <h3 style="margin: 0;">devandressz@gmail.com</h3>
 </div>
 
 
